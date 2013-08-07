@@ -1,3 +1,14 @@
-/lib9ml/python/build
-/lib9ml/python/9ML.egg-info
 *.pyc
+x86_64
+*.toc
+*.aux
+*.log
+*.toc
+*.bbl
+*.blg
+*.out
+*.komodoproject
+cover
+build
+nest_model
+test_files
